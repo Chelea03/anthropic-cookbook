@@ -4,7 +4,7 @@ Anthropic Cookbook 提供了代码和指南，旨在帮助开发人员使用 Cla
 
 ## 先决条件
 
-要充分利用本 Cookbook 中的示例，您需要一个 Anthropic API 密钥（在此处免费注册）。
+要充分利用本 Cookbook 中的示例，您需要一个 Anthropic API 密钥（[在此处免费注册](https://www.anthropic.com)）。
 
 虽然代码示例主要用 Python 编写，但这些概念可以适用于任何支持与 Anthropic API 交互的编程语言。
 
